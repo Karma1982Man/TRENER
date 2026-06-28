@@ -20,7 +20,8 @@
 | 10.06 | 🏃 | 116 ✅ | 40 | 38.3 | 23.3 | wzorowa Z2 (krótka → niski VO₂) |
 | 11.06 | 🥊 | 134 | 36 | 46.4 | 86.7 | |
 | 15.06 | — | — | — | — | — | Potwierdzenie realnego HRmax ~179 |
-| 17.06 | — | — | — | — | — | ⚠️ **Sesja przerwana: RPE 9 przy normalnym HR** → flaga otwarta |
+| 17.06 | — | — | — | — | — | Sesja przerwana: RPE 9 = deplecja (niedojedzony dzień wcześniej). ZAMKNIĘTE, nie kardio |
+| 18–27.06 | — | — | — | — | — | **5 sesji** — powrót do pełni formy (dane do uzupełnienia) |
 
 ### Wzorce z danych
 - **Recovery = kanarek:** HRR leci po twardej macie (24.05→26, 09.06→27), wraca po lekkich (52,55,56).

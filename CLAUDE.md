@@ -34,11 +34,8 @@ Pełny profil: [`zawodnik/profil.md`](zawodnik/profil.md). Skrót:
 - **Sylwetka fizjologiczna:** silnik siłowo-zapaśniczy, próg wysoko (~91% HRmax),
   baza tlenowa wąska, regeneracja bazowo Elite.
 - **Kontekst zdrowotny:** na **TRT**, stosuje **Elvanse** (podbija HR — artefakty w danych).
-- **Status na 28.06.2026:** Faza 1 (Baza Z2) zamknięta. **Otwarta flaga blokująca:**
-  diagnoza zdarzenia 17.06 (RPE 9 przy normalnym tętnie) — patrz `zawodnik/flagi-otwarte.md`.
-
-> ⚠️ **Przed pierwszą rekomendacją treningową/suplementacyjną sprawdź, czy flaga 17.06
-> jest rozstrzygnięta.** Jeśli nie — to jest temat nr 1, blokuje powrót do intensywności.
+- **Status na 28.06.2026:** Faza 1 (Baza Z2) zamknięta. Zdarzenie 17.06 = deplecja
+  (niedojedzenie), ZAMKNIĘTE — pełnia formy, 5 sesji bez nawrotu. Wchodzimy w **planowanie Fazy 2**.
 
 ---
 
@@ -71,5 +68,5 @@ Pełny profil: [`zawodnik/profil.md`](zawodnik/profil.md). Skrót:
 ## STATUS WSPÓŁPRACY
 
 - **Start:** 28.06.2026
-- **Aktualna faza planu:** przejście Faza 1 → Faza 2 (po rozstrzygnięciu flagi 17.06)
-- **Następny kamień milowy:** odwrócenie proporcji obciążenia (bieg/cardio > mata)
+- **Aktualna faza planu:** planowanie Fazy 2 (build silnika biegowego)
+- **Następny kamień milowy:** odwrócenie proporcji obciążenia (bieg/cardio > mata) + fueling okołotreningowy

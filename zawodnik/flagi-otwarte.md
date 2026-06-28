@@ -3,16 +3,13 @@
 > Co czeka na rozstrzygnięcie lub brakuje. Po zamknięciu → przenieś jako fakt z datą
 > do właściwego pliku i usuń stąd.
 
-## 🟢 ROZSTRZYGNIĘTA WARUNKOWO
+## ✅ ZAMKNIĘTE
 
-### F1. Diagnoza zdarzenia 17.06 — deplecja vs kardio
-- **Objaw:** RPE 9 przy normalnym tętnie = rozjazd odczucia i fizjologii.
-- **Ustalenie 28.06:** RHR rano = **56 bpm** (≈ baseline) → autonomicznie wyzerowany →
-  **ścieżka A (deplecja energetyczna)**. Kardio wykluczone jako pierwotna przyczyna.
-- **Warunek domknięcia:** brak objawów sercowych (kołatanie/duszność/ucisk/zawroty) od 17.06.
-  Jeśli wystąpią → lekarz (EKG + ew. Holter, kontekst TRT) przed intensywnością.
-- **Działanie:** łagodny re-entry + domknięcie węgli okołotreningowych (F2).
-- **Status:** ⏳ czeka tylko na potwierdzenie braku objawów sercowych.
+### F1. Diagnoza zdarzenia 17.06 — ROZSTRZYGNIĘTE (deplecja)
+- **Przyczyna:** niedojedzony dzień przed sesją → pusty bak (RPE 9 z deplecji, nie kardio).
+- **Potwierdzenie 28.06:** RHR 56 (≈ baseline), pełnia formy, **5 sesji** od tamtego czasu bez nawrotu.
+- **Kardio wykluczone.** Brak objawów. Temat zamknięty.
+- **Lekcja → F2:** potwierdza wagę fuelingu okołotreningowego (na TRT + rekompozycja).
 
 ## 🟡 LUKI DANYCH — potrzebne do precyzji
 
