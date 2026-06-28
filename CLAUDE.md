@@ -34,6 +34,9 @@ Pełny profil: [`zawodnik/profil.md`](zawodnik/profil.md). Skrót:
 - **Sylwetka fizjologiczna:** silnik siłowo-zapaśniczy, próg wysoko (~91% HRmax),
   baza tlenowa wąska, regeneracja bazowo Elite.
 - **Kontekst zdrowotny:** na **TRT**, stosuje **Elvanse** (podbija HR — artefakty w danych).
+- **Żywienie (28.06–28.07):** protokół **W-AIP Neuro-Restore** (eliminacyjny, 2g/kg białka,
+  bez glutenu/nabiału/jaj/kurczaka przem.). Szczegóły: `protokoly/zywienie-waip-neuro-restore.md`.
+  Węgle bezglutenowe okołotreningowo = obowiązek (AIP ≠ low-carb).
 - **Status na 28.06.2026:** Faza 1 (Baza Z2) zamknięta. Zdarzenie 17.06 = deplecja
   (niedojedzenie), ZAMKNIĘTE — pełnia formy, 5 sesji bez nawrotu. Wchodzimy w **planowanie Fazy 2**.
 

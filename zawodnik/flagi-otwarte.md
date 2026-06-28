@@ -14,11 +14,12 @@
 ## 🟡 LUKI DANYCH — potrzebne do precyzji
 
 ### F2. Węgle okołotreningowe (peri-workout)
-Brak pod twarde sesje. Na TRT + rekompozycja = ryzyko katabolizmu/deplecji
-(prawdopodobna współprzyczyna 17.06). **Priorytet domknięcia: wysoki.**
+Źródła ustalone (W-AIP): ryż/ziemniak/batat/gryka wokół twardych dni. **Wykonanie do pilnowania** —
+AIP ≠ low-carb. Patrz `../protokoly/zywienie-waip-neuro-restore.md`.
 
 ### F3. Realne białko (g/dzień)
-Brak danych. Bez tego nie ocenię precyzji rekompozycji.
+Target ustalony: **2 g/kg** (W-AIP). Brakuje **masy ciała** do policzenia gramów. Białko z mięsa/ryb
+(bez jaj/whey) → timing po sesji.
 
 ### F4. Cytrulina — dawka / timing
 Brak danych. Do ustalenia pod wydolność/pompę na stacjach.
