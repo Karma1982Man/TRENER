@@ -68,5 +68,6 @@ Pełny profil: [`zawodnik/profil.md`](zawodnik/profil.md). Skrót:
 ## STATUS WSPÓŁPRACY
 
 - **Start:** 28.06.2026
-- **Aktualna faza planu:** planowanie Fazy 2 (build silnika biegowego)
-- **Następny kamień milowy:** odwrócenie proporcji obciążenia (bieg/cardio > mata) + fueling okołotreningowy
+- **Aktualna faza planu:** **Faza 2 — build bazy** (protokół: `protokoly/faza-2-build-bazy.md`)
+- **Budżet:** 6 sesji/tydz (2 mata, 2 HYROX, 2 lekkie Z2). Mikrocykl: Pon dł.Z2 / Wt mata / Śr Z2 / Czw jakość / Pt Z2 / Sob mata / Ndz off
+- **Następny kamień milowy:** 6–8 tyg → re-test → Faza 3 (specyfik HYROX)
