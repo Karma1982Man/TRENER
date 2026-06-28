@@ -7,7 +7,7 @@
 |----------|---------|-------|
 | **HRmax (skoryg.)** | **179–180 bpm** | 194 z 21.05 = artefakt Elvanse; potwierdzone 15.06/17.06 |
 | **LTHR (próg)** | **163 bpm** | ~91% HRmax · test 19.05 |
-| **RHR (spoczynek)** | ~58 bpm | baseline poranny (do walidacji deplecji 17.06) |
+| **RHR (spoczynek)** | **56 bpm** | baseline poranny (28.06 = 56, ≈ baseline → autonomicznie wyzerowany; wyklucza kardio jako przyczynę 17.06) |
 | **HR Recovery 1′** | baseline **43 (Elite)** | zakres okresu 26–56 — czuły barometr regeneracji |
 
 ### Strefy (przeliczone 18.06 na bazie LTHR 163)

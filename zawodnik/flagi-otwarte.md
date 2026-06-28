@@ -3,15 +3,16 @@
 > Co czeka na rozstrzygnięcie lub brakuje. Po zamknięciu → przenieś jako fakt z datą
 > do właściwego pliku i usuń stąd.
 
-## 🔴 BLOKUJĄCA — rozstrzygnij przed powrotem do intensywności
+## 🟢 ROZSTRZYGNIĘTA WARUNKOWO
 
 ### F1. Diagnoza zdarzenia 17.06 — deplecja vs kardio
 - **Objaw:** RPE 9 przy normalnym tętnie = rozjazd odczucia i fizjologii.
-- **Ścieżka A (deplecja):** RHR rano ≈ baseline (~58) → była deplecja energetyczna →
-  **wracaj łagodnie**, domknij węgle okołotreningowe.
-- **Ścieżka B (kardio):** RHR nie wraca / kołatanie / duszność →
-  **lekarz przed startem. Bez wyjątków.** Kontekst TRT podnosi czujność.
-- **Status:** ⏳ czeka. Blokuje plan Fazy 2.
+- **Ustalenie 28.06:** RHR rano = **56 bpm** (≈ baseline) → autonomicznie wyzerowany →
+  **ścieżka A (deplecja energetyczna)**. Kardio wykluczone jako pierwotna przyczyna.
+- **Warunek domknięcia:** brak objawów sercowych (kołatanie/duszność/ucisk/zawroty) od 17.06.
+  Jeśli wystąpią → lekarz (EKG + ew. Holter, kontekst TRT) przed intensywnością.
+- **Działanie:** łagodny re-entry + domknięcie węgli okołotreningowych (F2).
+- **Status:** ⏳ czeka tylko na potwierdzenie braku objawów sercowych.
 
 ## 🟡 LUKI DANYCH — potrzebne do precyzji
 
