@@ -17,16 +17,17 @@
 Źródła ustalone (W-AIP): ryż/ziemniak/batat/gryka wokół twardych dni. **Wykonanie do pilnowania** —
 AIP ≠ low-carb. Patrz `../protokoly/zywienie-waip-neuro-restore.md`.
 
-### F3. Realne białko (g/dzień)
-Target ustalony: **2 g/kg** (W-AIP). Brakuje **masy ciała** do policzenia gramów. Białko z mięsa/ryb
-(bez jaj/whey) → timing po sesji.
+### F3. Realne białko (g/dzień) — ZAMKNIĘTE ✅
+Masa 98.2 kg → 2 g/kg = **~196 g/dzień**. Porcje w `../protokoly/zywienie-waip-neuro-restore.md`.
+Do weryfikacji: czy faktyczne spożycie trafia w target (śledzić).
 
 ### F4. Cytrulina — dawka / timing
 Brak danych. Do ustalenia pod wydolność/pompę na stacjach.
 
 ### F5. Dane stałe profilu
-Wiek dokładny, masa ciała, % BF, szczegóły protokołu TRT, reszta suplementacji
+Wiek dokładny, % BF, szczegóły protokołu TRT, reszta suplementacji
 (kreatyna, beta-alanina, adaptogeny, peptydy GH — jeśli stosuje).
+(masa 98.2 kg / 188 cm — uzupełnione 28.06)
 
 ---
 

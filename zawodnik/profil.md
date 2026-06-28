@@ -25,7 +25,15 @@
   ~20% z biegu/cardio HYROX (TRIMP 23–53) — **do odwrócenia w Fazie 2**
 - **Słabe ogniwo:** silnik biegowy niedotrenowany; układ regeneracji przeciążony matą
 
+## Antropometria
+- **Masa:** 98.2 kg (na czczo, rano · 28.06.2026)
+- **Wzrost:** 188 cm · BMI ~27.8 (sylwetka muskularna — silnik siłowo-zapaśniczy)
+- **Cel masy:** powolna rekompozycja w dół przy utrzymanym białku (dźwignia pod sub-1:15)
+
+## Cele żywieniowe (z masy)
+- **Białko:** 2 g/kg = **~196 g/dzień** (5× ~40 g; porcja w 1–2 h po twardej sesji)
+- **Węgle:** dzień treningowy ~300 g (~3 g/kg), wolny ~150–200 g — przesunięte okołotreningowo
+
 ## Dane do uzupełnienia
-Wiek dokładny, masa ciała, % tkanki tłuszczowej, realne białko (g/dzień),
-szczegóły protokołu TRT, suplementacja (kreatyna/cytrulina/beta-alanina — dawki/timing).
-→ patrz `flagi-otwarte.md`.
+Wiek dokładny, % tkanki tłuszczowej, szczegóły protokołu TRT,
+suplementacja (kreatyna/cytrulina/beta-alanina — dawki/timing). → patrz `flagi-otwarte.md`.

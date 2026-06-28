@@ -27,6 +27,14 @@
 - **Słodziki/emulgatory wykluczone** → uwaga na skład odżywek/żeli sportowych
   (większość zawiera emulgatory/słodziki) — domowe źródła węgli zamiast żeli.
 
+## Porcje spersonalizowane (98.2 kg · 28.06.2026)
+- **Białko: ~196 g/dzień** = 5× ~40 g (≈150–200 g mięsa/ryby/porcję). 1 porcja w 1–2 h po twardej sesji.
+- **Węgle:** dzień treningowy ~300 g (~3 g/kg), wolny ~150–200 g.
+  - **Twarde (boks/jakość) — przed (1,5–2 h):** ~60 g (≈1,5 szkl. ryżu ugot. lub batat ~300 g) + białko
+  - **Po twardej (do 1 h):** ~60–80 g węgli + ~40 g białka (np. 200 g indyka + 250 g ryżu)
+  - **Długi Z2:** ~40–50 g przed; >75 min → węgle w trakcie (ryż/ziemniak, NIE żele) + elektrolity
+  - **Lekkie Z2:** bez dokładki
+
 ## Flagi powiązane
 - Realne białko g/dzień → policzyć z masy ciała (potrzebna waga) — `../zawodnik/flagi-otwarte.md`
 - Cytrulina dawka/timing → do ustalenia (sam aminokwas, zgodny z protokołem)
