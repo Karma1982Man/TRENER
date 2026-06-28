@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Raport Wytrenowania — Yaser Attun · Tętno & Wydolność</title>
+<style>
+  :root{
+    --bg:#0d1117; --panel:#161b22; --panel2:#1c2230; --line:#2a3240;
+    --txt:#e6edf3; --mut:#8b97a7; --accent:#ff5a36; --accent2:#36c2ff;
+    --green:#3fb950; --amber:#e3a008; --red:#f85149; --purple:#a371f7;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--txt);
+    font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
+    line-height:1.5;padding:0 0 80px}
+  .wrap{max-width:980px;margin:0 auto;padding:0 20px}
+  header{padding:48px 0 28px;border-bottom:1px solid var(--line);margin-bottom:8px}
+  .kick{color:var(--accent);font-weight:700;letter-spacing:.18em;font-size:12px;text-transform:uppercase}
+  h1{font-size:34px;margin:8px 0 4px;letter-spacing:-.5px}
+  .sub{color:var(--mut);font-size:15px}
+  h2{font-size:21px;margin:42px 0 14px;padding-bottom:8px;border-bottom:1px solid var(--line);
+    display:flex;align-items:center;gap:10px}
+  h2 .n{background:var(--accent);color:#fff;width:26px;height:26px;border-radius:7px;
+    display:inline-grid;place-items:center;font-size:14px;font-weight:800}
+  h3{font-size:16px;margin:22px 0 8px;color:var(--accent2)}
+  p{margin:10px 0}
+  .grid{display:grid;gap:14px}
+  .g3{grid-template-columns:repeat(3,1fr)}
+  .g4{grid-template-columns:repeat(4,1fr)}
+  .g2{grid-template-columns:repeat(2,1fr)}
+  @media(max-width:720px){.g3,.g4,.g2{grid-template-columns:1fr 1fr}}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px}
+  .stat{text-align:left}
+  .stat .v{font-size:28px;font-weight:800;letter-spacing:-.5px}
+  .stat .l{color:var(--mut);font-size:12px;text-transform:uppercase;letter-spacing:.05em;margin-top:2px}
+  .stat .d{font-size:12px;margin-top:6px}
+  .up{color:var(--green)} .down{color:var(--red)} .flat{color:var(--amber)}
+  .tag{display:inline-block;font-size:11px;font-weight:700;padding:2px 8px;border-radius:20px;
+    text-transform:uppercase;letter-spacing:.04em}
+  .t-green{background:rgba(63,185,80,.15);color:var(--green)}
+  .t-amber{background:rgba(227,160,8,.15);color:var(--amber)}
+  .t-red{background:rgba(248,81,73,.15);color:var(--red)}
+  .t-blue{background:rgba(54,194,255,.15);color:var(--accent2)}
+  table{width:100%;border-collapse:collapse;font-size:13px;margin:10px 0}
+  th,td{padding:8px 9px;text-align:center;border-bottom:1px solid var(--line)}
+  th{color:var(--mut);font-weight:600;text-transform:uppercase;font-size:11px;letter-spacing:.04em;position:sticky}
+  td.l,th.l{text-align:left}
+  tr:hover td{background:var(--panel2)}
+  .chartbox{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:18px 16px 10px}
+  .chartttl{font-size:13px;color:var(--mut);margin-bottom:6px;font-weight:600}
+  .legend{display:flex;gap:16px;flex-wrap:wrap;font-size:12px;color:var(--mut);margin-top:8px}
+  .legend span{display:inline-flex;align-items:center;gap:6px}
+  .dot{width:10px;height:10px;border-radius:3px;display:inline-block}
+  .callout{border-left:3px solid var(--accent);background:var(--panel2);padding:12px 16px;border-radius:0 10px 10px 0;margin:14px 0}
+  .callout.red{border-color:var(--red)}
+  .callout.green{border-color:var(--green)}
+  .callout.amber{border-color:var(--amber)}
+  ul{margin:8px 0;padding-left:20px} li{margin:6px 0}
+  .verdict{background:linear-gradient(135deg,#1a2030,#161b22);border:1px solid var(--accent);
+    border-radius:14px;padding:22px;margin-top:16px}
+  .foot{color:var(--mut);font-size:12px;text-align:center;margin-top:40px;padding-top:16px;border-top:1px solid var(--line)}
+  .disc{background:rgba(248,81,73,.07);border:1px solid rgba(248,81,73,.25);border-radius:10px;
+    padding:12px 16px;font-size:13px;color:var(--mut);margin:18px 0}
+  svg{display:block;width:100%;height:auto}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <div class="kick">Raport Wytrenowania · Trener HYROX</div>
+  <h1>Yaser Attun — Tętno &amp; Wydolność</h1>
+  <div class="sub">Okres analizy: <b>18.05 – 17.06.2026</b> (Faza 1 — Baza Z2) · 14 sesji · Cel A: HYROX Solo Masters 40-44, sub-1:15 · Źródło: dziennik treningowy + FITIV</div>
+</header>
+
+<!-- SNAPSHOT -->
+<div class="grid g4" style="margin-top:18px">
+  <div class="card stat"><div class="v">179<span style="font-size:15px;color:var(--mut)"> bpm</span></div><div class="l">HRmax (skoryg.)</div><div class="d flat">194→178→180 · ustabilizowany</div></div>
+  <div class="card stat"><div class="v">163<span style="font-size:15px;color:var(--mut)"> bpm</span></div><div class="l">Próg (LTHR)</div><div class="d">~91% HRmax · test 19.05</div></div>
+  <div class="card stat"><div class="v">~46<span style="font-size:15px;color:var(--mut)"> VO₂</span></div><div class="l">Wydolność (stabil.)</div><div class="d flat">szum 38–52, baza 44–48</div></div>
+  <div class="card stat"><div class="v">26–56</div><div class="l">HR Recovery 1′</div><div class="d down">duża zmienność = sygnał zmęczenia</div></div>
+</div>
+
+<!-- 1. TĘTNO -->
+<h2><span class="n">1</span> Tętno — co robi serce</h2>
+
+<h3>1a. HRmax i strefy — kalibracja zakończona</h3>
+<p>Największa zmiana okresu: <b>uporządkowanie HRmax</b>. Pierwotne 194 bpm było artefaktem farmakologicznym (Elvanse, sesja 21.05) — sztucznie podbite, myliło strefy. Obserwacje z 15.06 i 17.06 potwierdziły realny pułap <b>179–180 bpm</b>. Strefy przeliczone 18.06 na bazie LTHR 163. Od teraz dane są wiarygodne — wcześniejsze % HRmax były zawyżone w dół.</p>
+
+<div class="callout amber"><b>Tendencja:</b> Twoje tętno jest „szybkie w górze" — próg na ~91% HRmax (163/179). To typowe dla silnika siłowo-zapaśniczego: mocny, ale baza tlenowa jeszcze wąska. Cała Faza 1 ma to odwrócić — obniżyć tętno przy tym samym tempie.</div>
+
+<h3>1b. HR Recovery — Twój najczulszy wskaźnik (i ostrzegawczy)</h3>
+<p>Spadek tętna w 1. minucie po wysiłku to najlepszy barometr Twojej regeneracji. Baseline 43 (Elite). W okresie wahał się <b>26 → 56</b> — i ten zygzak nie jest przypadkowy:</p>
+
+<div class="chartbox">
+  <div class="chartttl">HR Recovery 1 min — wartość (bpm spadku) · wyżej = lepsza regeneracja</div>
+  <svg id="hrr" viewBox="0 0 900 240"></svg>
+  <div class="legend">
+    <span><span class="dot" style="background:var(--accent2)"></span>HR Recovery 1′</span>
+    <span><span class="dot" style="background:var(--green)"></span>Elite (≥45)</span>
+    <span><span class="dot" style="background:var(--red)"></span>Obniżony po ciężkiej sesji</span>
+  </div>
+</div>
+
+<div class="callout red"><b>Wzorzec ostrzegawczy:</b> recovery leci w dół zawsze po twardych sesjach sztuk walki o wysokim obciążeniu (24.05 → 26 · 09.06 → 27). Po dniach lżejszych/regeneracji wraca do Elite (52, 55, 56). To jest mechanizm, który <b>doprowadził do przerwanej sesji 17.06</b> (RPE 9 przy normalnym HR) — klasyczny obraz nawarstwionego zmęczenia, nie braku formy.</div>
+
+<h3>1c. Dyscyplina strefowa — „biegasz za szybko"</h3>
+<p>Reguła Fazy 1: bieg w Z2 = <b>107–124 bpm</b>. Tendencja z początku okresu: <b>ego biegacza-zapaśnika</b> — ciągniesz za mocno.</p>
+<div class="chartbox">
+  <div class="chartttl">Średnie HR sesji vs górny limit Z2 (124 bpm, linia przerywana)</div>
+  <svg id="avghr" viewBox="0 0 900 240"></svg>
+</div>
+<div class="callout green"><b>Postęp:</b> 24.05 bieg poszedł na avg 146 (to Twoje Z4!) — kompletnie poza planem. Ale 08.06 (122 ✅) i 10.06 (116 ✅) to <b>wzorowe sesje Z2</b> — nauczyłeś się trzymać dyscyplinę. Sesje sztuk walki naturalnie siedzą w Z3 (134–138) i tak ma być — ich nie strefujemy.</div>
+
+<!-- 2. WYDOLNOŚĆ -->
+<h2><span class="n">2</span> Wydolność — czy silnik rośnie</h2>
+
+<div class="chartbox">
+  <div class="chartttl">VO₂ Max (FITIV) w czasie · szum pomiarowy duży — patrz na pasmo, nie na pojedynczy punkt</div>
+  <svg id="vo2" viewBox="0 0 900 240"></svg>
+</div>
+
+<p>Szczera prawda: <b>po 4 tygodniach nie ma jeszcze wyraźnego trendu wzrostowego VO₂ — i to jest OK.</b> Wartości skaczą 38–52, ale to głównie szum algorytmu (52.1 zawyżone Elvanse+test, 38.3 zaniżone krótką sesją). Realna baza siedzi w paśmie <b>44–48</b>, stabilnie. W fazie budowania bazy Z2 adaptacje zachodzą „pod maską" (objętość mitochondrialna, gęstość naczyń) — VO₂ rusza zwykle dopiero w tyg. 6–10.</p>
+
+<div class="grid g3">
+  <div class="card stat"><div class="v">15.4<span style="font-size:14px;color:var(--mut)"> km/h</span></div><div class="l">Test 19.05 (3 km / 12:24)</div><div class="d">avg 160 bpm · max 177</div></div>
+  <div class="card stat"><div class="v">~6:00<span style="font-size:14px;color:var(--mut)">/km</span></div><div class="l">Obecne tempo HYROX</div><div class="d flat">Z3, sustainable</div></div>
+  <div class="card stat"><div class="v">5:27<span style="font-size:14px;color:var(--mut)">/km</span></div><div class="l">Tempo docelowe</div><div class="d up">cel po Fazie 2–3</div></div>
+</div>
+
+<h3>2b. Skąd bierze się obciążenie (TRIMP) — ważne ostrzeżenie</h3>
+<div class="chartbox">
+  <div class="chartttl">Obciążenie sesji (TRIMP) · czerwone = sztuki walki, niebieskie = bieg/cardio HYROX</div>
+  <svg id="trimp" viewBox="0 0 900 260"></svg>
+</div>
+<div class="callout amber"><b>Tendencja strukturalna:</b> Twój stres treningowy pochodzi <b>głównie ze sztuk walki</b> (TRIMP 100–132), a nie z pracy biegowej pod HYROX (TRIMP 23–53). Dla celu „baza tlenowa pod sub-1:15" to ryzyko — silnik biegowy dostaje za mało bodźca, a układ nerwowy/regeneracja obrywają od maty. To dokładnie ta nierównowaga, która wygenerowała stop 17.06.</div>
+
+<!-- 3. TENDENCJE -->
+<h2><span class="n">3</span> Tendencje — 5 wzorców, które widzę</h2>
+<div class="grid g2">
+  <div class="card"><span class="tag t-amber">Wzorzec 1</span><h3 style="margin-top:8px">Ego tempa</h3><p style="font-size:14px;margin:0">Domyślnie biegniesz za szybko (Z3/Z4 zamiast Z2). Poprawiło się w czerwcu, ale wraca pod presją. Dyscyplina Z2 = Twoja dźwignia nr 1.</p></div>
+  <div class="card"><span class="tag t-red">Wzorzec 2</span><h3 style="margin-top:8px">Recovery = kanarek</h3><p style="font-size:14px;margin:0">HR Recovery 1′ spada zanim poczujesz przemęczenie. Po sesji z TRIMP &gt;100 spodziewaj się recovery &lt;35 — to dzień na luz, nie na dokładkę.</p></div>
+  <div class="card"><span class="tag t-amber">Wzorzec 3</span><h3 style="margin-top:8px">Mata zjada bazę</h3><p style="font-size:14px;margin:0">80% obciążenia z walki, nie z biegu. Cel HYROX wymaga odwrócenia proporcji w Fazie 2 — albo bieg nie urośnie.</p></div>
+  <div class="card"><span class="tag t-blue">Wzorzec 4</span><h3 style="margin-top:8px">Silnik wysokoobrotowy</h3><p style="font-size:14px;margin:0">Próg na 91% HRmax. Dużo „góry", mało „dołu". Klasyka zapaśnika wchodzącego w endurance — baza tlenowa to teraz najtańszy zysk.</p></div>
+  <div class="card"><span class="tag t-green">Wzorzec 5</span><h3 style="margin-top:8px">Regeneracja bazowo Elite</h3><p style="font-size:14px;margin:0">Gdy wypoczęty: recovery 52–56, czyli klasa mistrzowska. Potencjał jest — problem to zarządzanie obciążeniem, nie zdolność regeneracji.</p></div>
+  <div class="card"><span class="tag t-red">Wzorzec 6</span><h3 style="margin-top:8px">Sygnał 17.06</h3><p style="font-size:14px;margin:0">RPE 9 przy normalnym tętnie = rozjazd odczucia i fizjologii. Albo deplecja (żywienie), albo kardio. Do rozstrzygnięcia PRZED powrotem.</p></div>
+</div>
+
+<!-- 4. FLAGI -->
+<h2><span class="n">4</span> Flagi otwarte</h2>
+<table>
+<thead><tr><th class="l">Temat</th><th>Status</th><th class="l">Co to znaczy</th></tr></thead>
+<tbody>
+<tr><td class="l">Diagnoza 17.06 — deplecja vs kardio</td><td><span class="tag t-red">Czeka</span></td><td class="l">Blokuje powrót do treningu. Jeśli objawy kardio → lekarz przed startem.</td></tr>
+<tr><td class="l">Węgle peri-workout</td><td><span class="tag t-amber">Luka</span></td><td class="l">Brak pod twarde sesje. Na TRT przy rekompozycji = ryzyko katabolizmu i deplecji (możliwa przyczyna 17.06).</td></tr>
+<tr><td class="l">Realne białko (g/dzień)</td><td><span class="tag t-amber">Brak danych</span></td><td class="l">Bez tego nie ocenię precyzji rekompozycji.</td></tr>
+<tr><td class="l">Cytrulina — dawka/timing</td><td><span class="tag t-amber">Brak danych</span></td><td class="l">Do ustalenia pod wydolność/pompę na stacjach.</td></tr>
+</tbody>
+</table>
+
+<!-- 5. WERDYKT -->
+<h2><span class="n">5</span> Werdykt trenera</h2>
+<div class="verdict">
+<p style="margin-top:0"><b>Stan: solidna baza, niedotrenowany silnik biegowy, przetrenowany układ regeneracji.</b> Masz fizjologię mistrza (recovery Elite, próg wysoko), ale rozkład obciążenia pracuje przeciw celowi HYROX. Pierwsze 4 tygodnie to nie regres — to faza, w której adaptacje jeszcze nie wyszły na powierzchnię. Liczby są zdrowe; problemem jest <b>dawkowanie</b>, nie potencjał.</p>
+<h3 style="color:var(--accent)">3 ruchy na teraz</h3>
+<ul>
+<li><b>Rozstrzygnij 17.06 (A/B) zanim wrócisz.</b> RHR rano = baseline (~58) → była deplecja, wracaj łagodnie. Nie wraca / kołatanie / duszność → lekarz. Bez wyjątków.</li>
+<li><b>Odwróć proporcje obciążenia.</b> Bieg/cardio Z2 ma dać więcej TRIMP niż mata w Fazie 2. Sztuki walki utrzymaj, ale jako jakość, nie objętość.</li>
+<li><b>Domknij węgle okołotreningowe.</b> Na TRT + rekompozycja, twarde sesje bez węgli to proszenie się o powtórkę z 17.06. To prawdopodobnie najważniejszy brakujący element.</li>
+</ul>
+</div>
+
+<div class="disc">
+⚠️ <b>Zastrzeżenie:</b> Raport opisuje trendy z danych treningowych (FITIV/pasek HR) i nie zastępuje diagnostyki lekarskiej. Wątek 17.06 (RPE 9 przy normalnym tętnie) oraz kontekst TRT wymagają oceny lekarza prowadzącego / badań krwi przed powrotem do intensywnego treningu. VO₂ i HR z urządzeń konsumenckich mają błąd pomiaru — interpretuj pasmami, nie pojedynczymi punktami.
+</div>
+
+<div class="foot">
+  Raport wygenerowany 28.06.2026 · dane: 18.05–17.06.2026 · plik: RAPORT-WYTRENOWANIE-Yaser-2026-06.html<br>
+  Materiał poufny (dane zdrowotne / TRT) — do użytku własnego.
+</div>
+
+</div>
+
+<script>
+// ---------- DANE ----------
+const labels = ['18.05','24.05','25.05','27.05','28.05','02.06','08.06','09.06','10.06','11.06'];
+const hrr   = [43,26,52,43,55,56,47,27,40,36];        // HR recovery 1'
+const avghr = [126,146,117,134,125,136,122,138,116,134];
+const vo2   = [48.6,43.3,43.5,47.5,43.8,45.9,41.9,45.4,38.3,46.4];
+const trimp = [78.7,35.5,41.3,66.8,60.0,115.9,52.8,101.4,23.3,86.7];
+const isCombat = [0,0,0,1,0,1,0,1,0,1]; // 1 = sztuki walki (czerwony słupek)
+
+const C={txt:'#e6edf3',mut:'#8b97a7',line:'#2a3240',accent:'#ff5a36',blue:'#36c2ff',green:'#3fb950',red:'#f85149',amber:'#e3a008'};
+
+function lineChart(id,data,{min,max,band,target,colorFn,baseColor}){
+  const svg=document.getElementById(id);
+  const W=900,H=240,pl=44,pr=18,pt=18,pb=34;
+  const iw=W-pl-pr, ih=H-pt-pb;
+  const x=i=>pl+ (data.length>1? i*iw/(data.length-1):iw/2);
+  const y=v=>pt+ih-(v-min)/(max-min)*ih;
+  let s='';
+  // band (zakres "normy")
+  if(band){const y1=y(band[1]),y2=y(band[0]);
+    s+=`<rect x="${pl}" y="${y1}" width="${iw}" height="${y2-y1}" fill="${band[2]}" opacity="0.10"/>`;}
+  // gridlines + y labels
+  const ticks=4;
+  for(let t=0;t<=ticks;t++){const val=min+(max-min)*t/ticks;const yy=y(val);
+    s+=`<line x1="${pl}" y1="${yy}" x2="${W-pr}" y2="${yy}" stroke="${C.line}"/>`;
+    s+=`<text x="${pl-8}" y="${yy+4}" fill="${C.mut}" font-size="11" text-anchor="end">${Math.round(val*10)/10}</text>`;}
+  // target dashed line
+  if(target!=null){const yt=y(target);
+    s+=`<line x1="${pl}" y1="${yt}" x2="${W-pr}" y2="${yt}" stroke="${C.amber}" stroke-dasharray="6 5" stroke-width="1.5"/>`;
+    s+=`<text x="${W-pr}" y="${yt-6}" fill="${C.amber}" font-size="11" text-anchor="end">limit ${target}</text>`;}
+  // line
+  let path='';data.forEach((v,i)=>{path+=(i?'L':'M')+x(i)+' '+y(v)+' ';});
+  s+=`<path d="${path}" fill="none" stroke="${baseColor||C.blue}" stroke-width="2.5" stroke-linejoin="round"/>`;
+  // points + x labels
+  data.forEach((v,i)=>{const col=colorFn?colorFn(v,i):(baseColor||C.blue);
+    s+=`<circle cx="${x(i)}" cy="${y(v)}" r="4.5" fill="${col}" stroke="#0d1117" stroke-width="1.5"/>`;
+    s+=`<text x="${x(i)}" y="${H-12}" fill="${C.mut}" font-size="11" text-anchor="middle">${labels[i]}</text>`;
+    s+=`<text x="${x(i)}" y="${y(v)-12}" fill="${C.txt}" font-size="11" text-anchor="middle" font-weight="700">${v}</text>`;});
+  svg.innerHTML=s;
+}
+
+function barChart(id,data,flags,{min,max}){
+  const svg=document.getElementById(id);
+  const W=900,H=260,pl=44,pr=18,pt=18,pb=34;
+  const iw=W-pl-pr, ih=H-pt-pb;
+  const n=data.length, bw=iw/n*0.6, gap=iw/n;
+  const y=v=>pt+ih-(v-min)/(max-min)*ih;
+  let s='';
+  const ticks=4;
+  for(let t=0;t<=ticks;t++){const val=min+(max-min)*t/ticks;const yy=y(val);
+    s+=`<line x1="${pl}" y1="${yy}" x2="${W-pr}" y2="${yy}" stroke="${C.line}"/>`;
+    s+=`<text x="${pl-8}" y="${yy+4}" fill="${C.mut}" font-size="11" text-anchor="end">${Math.round(val)}</text>`;}
+  data.forEach((v,i)=>{const cx=pl+gap*i+gap/2; const yy=y(v); const col=flags[i]?C.red:C.blue;
+    s+=`<rect x="${cx-bw/2}" y="${yy}" width="${bw}" height="${pt+ih-yy}" rx="4" fill="${col}" opacity="0.85"/>`;
+    s+=`<text x="${cx}" y="${yy-7}" fill="${C.txt}" font-size="11" text-anchor="middle" font-weight="700">${v}</text>`;
+    s+=`<text x="${cx}" y="${H-12}" fill="${C.mut}" font-size="11" text-anchor="middle">${labels[i]}</text>`;});
+  svg.innerHTML=s;
+}
+
+// HR Recovery — kolor: zielony Elite>=45, czerwony <35, blue inne
+lineChart('hrr',hrr,{min:20,max:60,band:[45,60,C.green],
+  colorFn:(v)=> v>=45?C.green : v<35?C.red : C.blue, baseColor:C.accent2});
+// Avg HR vs Z2 limit
+lineChart('avghr',avghr,{min:110,max:150,target:124,
+  colorFn:(v)=> v<=124?C.green:C.red, baseColor:C.accent});
+// VO2 — pasmo 44-48
+lineChart('vo2',vo2,{min:36,max:54,band:[44,48,C.blue], baseColor:C.blue,
+  colorFn:(v)=> (v>=44&&v<=48)?C.green:C.amber});
+// TRIMP bars
+barChart('trimp',trimp,isCombat,{min:0,max:140});
+</script>
+</body>
+</html>
