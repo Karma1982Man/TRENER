@@ -29,7 +29,7 @@
 - **Mata zjada bazę:** TRIMP maty 100–132 vs bieg 23–53 → silnik biegowy niedożywiony bodźcem.
 - **Kulminacja 17.06:** nawarstwione zmęczenie → stop. Nie brak formy — błąd dawkowania.
 
-## Faza 2 — (start po rozstrzygnięciu flagi 17.06)
+## Faza 2 — Build bazy
 | Data | Typ | Avg HR | HRR 1′ | VO₂ | TRIMP | Notatka |
 |------|-----|--------|--------|-----|-------|---------|
-| | | | | | | |
+| 21.06 | 🏃 | 124 (max 140) | 19 | 36.9 | 56.4 | Długi Z2 56′, RPE 3 „effortless". **38% w Z3** (wyciek), 61% Z2 → zwolnić bardziej (cel avg ~115–118, max <126) |

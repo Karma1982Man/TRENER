@@ -69,5 +69,5 @@ Pełny profil: [`zawodnik/profil.md`](zawodnik/profil.md). Skrót:
 
 - **Start:** 28.06.2026
 - **Aktualna faza planu:** **Faza 2 — build bazy** (protokół: `protokoly/faza-2-build-bazy.md`)
-- **Budżet:** 6 sesji/tydz (2 mata, 2 HYROX, 2 lekkie Z2). Mikrocykl: Pon dł.Z2 / Wt mata / Śr Z2 / Czw jakość / Pt Z2 / Sob mata / Ndz off
+- **Budżet:** 6 sesji/tydz (2 mata, 2 HYROX, 2 lekkie Z2). Mikrocykl (start od boksu): Pon boks / Wt Z2 / Śr dł.Z2 / Czw mata2 / Pt Z2 / Sob jakość / Ndz off
 - **Następny kamień milowy:** 6–8 tyg → re-test → Faza 3 (specyfik HYROX)

@@ -9,19 +9,21 @@
 - 2× HYROX (1 długi Z2 + 1 jakość biegowa)
 - 2× lekkie Z2 (regeneracyjne, TRIMP 23–53 — nie konkurują z matą o regenerację)
 
-## Mikrocykl tygodniowy
+## Mikrocykl tygodniowy (start od boksu)
 
 | Dzień | Sesja | Cel / strefa | Uwagi |
 |-------|-------|--------------|-------|
-| Pon | **HYROX długi Z2** | 107–124 bpm | base builder, progresja CZASU; świeże nogi po ndz |
-| Wt | **Mata 1** | Z3 (~134–138) | jakość, nie objętość |
-| Śr | **Lekkie Z2** | 107–124 bpm, 30–45′ | aktywna regeneracja po macie |
-| Czw | **HYROX jakość** | naprzemiennie ↓ | compromised running / próg |
+| Pon | **Boks (mata 1)** | Z3 (~134–138) | jakość; sztywny start tygodnia |
+| Wt | **Lekkie Z2** | 107–124 bpm, 30–45′ | aktywna regeneracja po boksie |
+| Śr | **HYROX długi Z2** | 107–124 bpm | base builder, progresja CZASU |
+| Czw | **Mata 2** | Z3 | jakość, nie objętość |
 | Pt | **Lekkie Z2** | 107–124 bpm, 30–45′ | aktywna regeneracja |
-| Sob | **Mata 2** | Z3 | |
+| Sob | **HYROX jakość** | naprzemiennie ↓ | compromised running / próg; świeże nogi |
 | Ndz | **Odpoczynek** | — | pełny |
 
-**Zasada rozkładu:** twarde dni (Wt/Czw/Sob) nigdy obok siebie; po każdej macie lekkie Z2.
+**Zasady rozkładu:** twarde dni (Pon/Czw/Sob) nigdy obok siebie; po każdej macie lekkie Z2;
+**długi Z2 nigdy bezpośrednio po macie** (ochrona przed deplecją).
+Wariant: jeśli więcej czasu w sobotę → zamiana Śr↔Sob (długi Z2 w sob, jakość w śr).
 
 ## Progresje
 - **Długi Z2 (Pon):** wydłużaj czas trwania ~10% co tydzień (nie tempo). Tętno trzyma się ≤124.
@@ -31,7 +33,8 @@
   - Tydz. parzyste: **praca progowa** pod tempo docelowe **5:27/km** (interwały @ LTHR ~163)
 
 ## Reguły twarde
-- **Zero ego tempa na Z2.** Górny limit 124 bpm = nieprzekraczalny. Wolniej = lepiej dla bazy.
+- **Zero ego tempa na Z2.** Górny limit 124 bpm = nieprzekraczalny. **Cel: ≥80% czasu w Z2,
+  avg ~115–118** (nie sufit 124). Lekcja 21.06: avg 124 = 38% wyciekło w Z3. Ma być „aż za wolno".
 - **HRR jako bramka:** po macie TRIMP >100 spodziewaj się HRR <35 → następny dzień tylko lekkie Z2.
 - **Fueling okołotreningowy (lekcja 17.06):** mata, jakość i długi Z2 = węgle przed i/lub w trakcie.
   Na TRT + rekompozycja niedojadanie wokół twardych sesji = ryzyko powtórki z 17.06.
