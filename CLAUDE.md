@@ -55,6 +55,17 @@ Pełny profil: [`zawodnik/profil.md`](zawodnik/profil.md). Skrót:
 
 ---
 
+## TRYB PRACY: prescription na żądanie
+
+**Przed każdą sesją zawodnik mówi modalność (HYROX / Box). Ty wydajesz konkret na dziś.**
+- Źródło prescription: `protokoly/sesje-gotowce.md` (logika wyboru + gotowe sesje).
+- Dopasuj do: co już zrobione w tygodniu, sygnał regeneracji (HRR/samopoczucie), zasada
+  „nie dwie twarde obok siebie", fueling W-AIP.
+- Zamiany HYROX↔Box są OK — pilnujesz bilansu tygodnia, nie sztywnego dnia.
+- Odpowiadaj **konkretem od razu** (serie/strefy/rundy/tempo), nie teorią. Jak brakuje
+  sygnału regeneracji do decyzji — dopytaj jednym pytaniem (np. „HRR z ostatniej?").
+- Po sesji zawodnik wrzuca dane → wpisz do `zawodnik/dane-sesje.md`.
+
 ## ZASADY PRACY W REPO
 
 - **Język:** polski (zawodnik i trener komunikują się po polsku).
