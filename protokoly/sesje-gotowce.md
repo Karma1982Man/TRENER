@@ -20,6 +20,9 @@ Sprawdź, czego brakuje w tygodniu (cel: 1 długi Z2 + 1 jakość + 2 lekkie Z2)
 **B1. Compromised running** (symulacja HYROX):
 - 5–6 × [400 m bieg @ ~5:30/km + 1 stacja: wall balls / burpee broad jumps / sled push / row 250 m]
 - przerwa = przejście do stacji; cel: utrzymać tempo biegu mimo zmęczenia stacją
+- **Pacing stacji = limiter (test 29.06):** bieg 11 km/h NIE jest problemem; redline robią stacje.
+  W Fazie 2 kontroluj stacje → **wiosło 2:05–2:10/500** (nie 1:55), burpee równe tempo, by zostać w Z3/Z4.
+- **Słabość do adresowania osobno:** burpees „zjadają powietrze" — najgorszy redline-station.
 **B2. Praca progowa** (pod tempo docelowe 5:27/km):
 - rozgrzewka 15′ → **5 × 4 min @ LTHR ~163** (przerwa 90 s trucht) → schłodzenie 10′
 - progresja: 5×4 → 6×4 → 5×5 min w kolejnych blokach

@@ -33,4 +33,4 @@
 | Data | Typ | Avg HR | HRR 1′ | VO₂ | TRIMP | Notatka |
 |------|-----|--------|--------|-----|-------|---------|
 | 21.06 | 🏃 | 124 (max 140) | 19 | 36.9 | 56.4 | Długi Z2 56′, RPE 3 „effortless". **38% w Z3** (wyciek), 61% Z2 → zwolnić bardziej (cel avg ~115–118, max <126) |
-| 29.06 | 🏃 | 138 (max 172) | 46 | 46.2 | 110.9 | HYROX jakość: compromised running 62′, 6 rund @ 11 km/h + stacje. **RPE 8.5 near-max, 54% w Z4+Z5, max 96% HRmax** → redline, nie kontrolowana jakość. HRR 46 Elite + fueling OK (ryż+mięso 1.5h). TRIMP 110 = twarda. Następna jakość: stacje lżej lub bieg 10.5 |
+| 29.06 | 🏃 | 138 (max 172) | 46 | 46.2 | 110.9 | HYROX jakość: compromised running 62′, 6 rund @ 11 km/h + stacje. **RPE 8.5 near-max, 54% w Z4+Z5, max 96% HRmax** → redline, nie kontrolowana jakość. HRR 46 Elite + fueling OK (ryż+mięso 1.5h). TRIMP 110 = twarda. **Bieg NIE był limitem (11 km/h spokojnie) — redline ze stacji: wiosło 1:55/500 wszystkie rundy + burpee „zjadają powietrze".** Dźwignia: pacing stacji (wiosło 2:05–2:10), nie tempo biegu |
