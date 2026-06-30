@@ -2,8 +2,9 @@
 
 > Poufne. Materiał do użytku własnego. Nie zastępuje oceny lekarza prowadzącego.
 
-## 29.06.2026 (Diagnostyka)
+## 29.06.2026 (Diagnostyka) — BASELINE na start W-AIP
 Wiek: 44 (ur. 1982-06-21) · płeć M
+> Punkt wyjścia. **Re-test ~29.07** (po miesiącu AIP) → porównać HOMA-IR, CRP, Ht.
 
 ### Stan zapalny / regeneracja — ✅
 - CRP **0.8** mg/l (0–5) → brak zapalenia
