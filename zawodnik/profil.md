@@ -26,6 +26,7 @@
 - **Słabe ogniwo:** silnik biegowy niedotrenowany; układ regeneracji przeciążony matą
 
 ## Antropometria
+- **Wiek:** 44 (ur. 1982-06-21) · płeć M
 - **Masa:** 98.2 kg (na czczo, rano · 28.06.2026)
 - **Wzrost:** 188 cm · BMI ~27.8 (sylwetka muskularna — silnik siłowo-zapaśniczy)
 - **Cel masy:** powolna rekompozycja w dół przy utrzymanym białku (dźwignia pod sub-1:15)
