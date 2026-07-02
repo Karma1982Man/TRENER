@@ -33,6 +33,6 @@
 | Data | Typ | Avg HR | HRR 1′ | VO₂ | TRIMP | Notatka |
 |------|-----|--------|--------|-----|-------|---------|
 | 21.06 | 🏃 | 124 (max 140) | 19 | 36.9 | 56.4 | Długi Z2 56′, RPE 3 „effortless". **38% w Z3** (wyciek), 61% Z2 → zwolnić bardziej (cel avg ~115–118, max <126) |
-| 02.07 | 🏃 | 123 (max 147) | 39 | 38.8 | 89.5 | Długi Z2 89′, RPE 3. **46% w Z3, tylko 45% Z2** → znowu wyciek (jak 21.06). Za gorąco mimo lekkiego odczucia → zwolnić do avg ~115. HRR trend 46→37→39 |
+| 02.07 | 🎾 | 123 (max 147) | 39 | 38.8 | 89.5 | **Padel** 89′ (nie bieg). Naturalny Z2/Z3 interwałowo, RPE 3. NIE liczy jako długi Z2 — silnik biegowy dalej czeka. Ale TRIMP 89.5 = realne obciążenie, 3. dzień z rzędu. HRR trend 46→37→39 |
 | 01.07 | 🥊 | 106 (max 154) | 37 | 41.3 | 56.2 | Boks 80′ (rozgrzewka 10–15′ + tarcze + rozciąganie). RPE 5, kontrolowane, nie redline. Dobra jednostka regeneracyjno-techniczna po twardej 29.06 |
 | 29.06 | 🏃 | 138 (max 172) | 46 | 46.2 | 110.9 | HYROX jakość: compromised running 62′, 6 rund @ 11 km/h + stacje. **RPE 8.5 near-max, 54% w Z4+Z5, max 96% HRmax** → redline, nie kontrolowana jakość. HRR 46 Elite + fueling OK (ryż+mięso 1.5h). TRIMP 110 = twarda. **Bieg NIE był limitem (11 km/h spokojnie) — redline ze stacji: wiosło 1:55/500 wszystkie rundy + burpee „zjadają powietrze".** Dźwignia: pacing stacji (wiosło 2:05–2:10), nie tempo biegu |
