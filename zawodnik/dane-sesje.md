@@ -33,6 +33,7 @@
 | Data | Typ | Avg HR | HRR 1′ | VO₂ | TRIMP | Notatka |
 |------|-----|--------|--------|-----|-------|---------|
 | 21.06 | 🏃 | 124 (max 140) | 19 | 36.9 | 56.4 | Długi Z2 56′, RPE 3 „effortless". **38% w Z3** (wyciek), 61% Z2 → zwolnić bardziej (cel avg ~115–118, max <126) |
+| 06.07 | 🥊 | 124 (max 172) | 46 | 46.2 | 70.6 | Boks pon 60′, dużo przerw (58% Z1), RPE ~3.5. Kontrolowany, HRR 46 Elite. Dobry opener tygodnia. Długi Z2 bieg dalej priorytet |
 | 03.07 | 🥊 | 126 (max 180) | 42 | 48.3 | 88.3 | Sparing 61′. **35% w Z4+Z5, max 180 (=HRmax)**, RPE realnie ~8 (w apce błędnie 3). TWARDA. Tydzień = sama góra, zero czystego długiego Z2 biegu |
 | 02.07 | 🎾 | 123 (max 147) | 39 | 38.8 | 89.5 | **Padel** 89′ (nie bieg). Naturalny Z2/Z3 interwałowo, RPE 3. NIE liczy jako długi Z2 — silnik biegowy dalej czeka. Ale TRIMP 89.5 = realne obciążenie, 3. dzień z rzędu. HRR trend 46→37→39 |
 | 01.07 | 🥊 | 106 (max 154) | 37 | 41.3 | 56.2 | Boks 80′ (rozgrzewka 10–15′ + tarcze + rozciąganie). RPE 5, kontrolowane, nie redline. Dobra jednostka regeneracyjno-techniczna po twardej 29.06 |
