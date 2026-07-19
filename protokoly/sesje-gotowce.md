@@ -48,6 +48,14 @@ Box = jakość Z3, nie objętość. Intensywność zależy od miejsca w tygodniu
 
 ---
 
+## Siłownia HYROX-owa (gdy pada „siłownia")
+Cel: nogi + full-body + wzorce zawodów, NIE split kulturystyczny (lekcja 18.07: mix był 50% ręce/barki).
+- **Priorytet:** przysiad / wykroki / step-up / hip thrust / RDL (posterior chain)
+- **Wzorce HYROX:** sled push/pull, wall balls, farmers carry, lunges obciążone, ski erg
+- **RIR 2–3** (nie do upadku — chronić regenerację)
+- Izolacja ramion = dodatek na końcu, nie trzon
+- Po lekkim Z2 = OK; nie łączyć z twardymi interwałami/ciężkimi nogami tego samego dnia
+
 ## Czerwone linie (zawsze)
 - Nigdy dwie twarde (Box-A/C lub jakość) w kolejnych dniach.
 - Po Box-A/C lub jakości → następny dzień lekkie Z2 albo odpoczynek.

@@ -33,6 +33,7 @@
 | Data | Typ | Avg HR | HRR 1′ | VO₂ | TRIMP | Notatka |
 |------|-----|--------|--------|-----|-------|---------|
 | 21.06 | 🏃 | 124 (max 140) | 19 | 36.9 | 56.4 | Długi Z2 56′, RPE 3 „effortless". **38% w Z3** (wyciek), 61% Z2 → zwolnić bardziej (cel avg ~115–118, max <126) |
+| 18.07 | 🏋️ | 105 (max 134) | 38 | 34.2 | ~57 | Wiosło 10′ (Z2) + siłownia 54′. Vol 4500 kg, 160 reps, RIR 3 (mądrze). RDL 4×10@70 ✅. **Muscle mix upper-dominant: ręce 36%+barki 14%, nogi 21%** → split kulturystyczny, nie HYROX. Przekierować na nogi/compound/carries |
 | 17.07 | 🏃 | 123 (max 137) | 17 | 34.9 | 49.1 | **Długi Z2 CZYSTY** 49–53′ (bieżnia 6.2 km/h marsz/incline). **0% w Z3+**, RPE 2. Pierwsza wzorowa sesja Z2 — bez wycieku. Tuning: zejść do avg ~115. HRR 17 = norma po steady |
 | 06.07 | 🥊 | 124 (max 172) | 46 | 46.2 | 70.6 | Boks pon 60′, dużo przerw (58% Z1), RPE ~3.5. Kontrolowany, HRR 46 Elite. Dobry opener tygodnia. Długi Z2 bieg dalej priorytet |
 | 03.07 | 🥊 | 126 (max 180) | 42 | 48.3 | 88.3 | Sparing 61′. **35% w Z4+Z5, max 180 (=HRmax)**, RPE realnie ~8 (w apce błędnie 3). TWARDA. Tydzień = sama góra, zero czystego długiego Z2 biegu |
